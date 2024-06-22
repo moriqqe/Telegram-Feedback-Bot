@@ -38,16 +38,8 @@ You should obtain these values from @BotFather for the token and from your Teleg
 Running the Bot:
 After configuring the settings and installing dependencies, the bot is ready to run. Start the bot with this command:
 
-bash
-Копировать код
-python bot.py
 Bot Operation:
 Once launched, the bot waits for the /start command from a user, then offers to choose the type of feedback and sends the corresponding message based on the user's choice. Feedback is automatically sent to the configured Telegram channel.
 
 Important Note:
 Ensure that the bot has permissions to send messages in the specified channel.
-
-css
-Копировать код
-
-This Markdown format clearly differentiates commands and configurations from the rest of the text, making your README more readable and professional. Each code block is wrapped in a language-specific fenced code block, improving syntax highlighting.
